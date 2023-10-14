@@ -18,4 +18,4 @@ This Python script helps prevent being kicked from Counter-Strike 2 (CS2) games 
 - Adjust the time interval if needed.
 - Run the script to start auto-jumping in all open CS2 windows.
 
-### Feel free to contribute to or report issues with this script. Enjoy your uninterrupted CS2 gaming experience!
+### Feel free to contribute to or report issues with this script. Enjoy your uninterrupted CS2 experience!
